@@ -1,0 +1,7 @@
+苏然完成的模型训练以及预测代码
+其中predict.py为模型训练代码提供接口函数model_train
+tese.py为预测代码提供接口函数model_test
+
+使用的测试样例暂未上传，稍后更新
+
+pip install scikit-learn==0.19.2
